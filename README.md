@@ -10,7 +10,7 @@ Kozmos, which produces products focused on home textiles and daily wear and sell
 
 The data set consists of variables indicating the comments made on a particular product group, the comment title, the number of stars, and how many people found the comment useful.
 
---Star: The number of stars given to the product.
---Helpful: The count of individuals who found the review helpful.
---Title: The title given to the review, a brief summary.
---Review: The actual content of the review given for the product.
+-Star: The number of stars given to the product.
+-Helpful: The count of individuals who found the review helpful.
+-Title: The title given to the review, a brief summary.
+-Review: The actual content of the review given for the product.
